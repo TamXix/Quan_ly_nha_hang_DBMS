@@ -134,7 +134,7 @@ create proc DeleteFoodType
 	@IdType	int	
 as
 Delete FOODTYPE where IDTYPE = @IdType;
-go
+go.
 --
 --Tạo proc Update FoodType
 if OBJECT_ID('UpdateFoodType') is not null
