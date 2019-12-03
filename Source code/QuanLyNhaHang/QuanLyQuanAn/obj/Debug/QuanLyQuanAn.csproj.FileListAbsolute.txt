@@ -1,0 +1,585 @@
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmThongTinTaiKhoan.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLy.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLyBanAn.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmHoaDon.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyMonAn.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmThongKe.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyAccount.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe.config
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE80.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj80.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj2.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmVoucher.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmBanAn.resources
+C:\Users\mrtht\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyNhanVien.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\EnvDTE.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\stdole.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\EnvDTE80.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\VSLangProj.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\VSLangProj80.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\VSLangProj2.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.exe.config
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyNhanVien.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.PresentationLayer.frmBanAn.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.PresentationLayer.frmHoaDon.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.frmQuanLy.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyAccount.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.frmQuanLyBanAn.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyMonAn.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.PresentationLayer.frmThongKe.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.frmThongTinTaiKhoan.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.PresentationLayer.frmVoucher.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\RdlCompile.cache
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\RdlCompile.compiled
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn1\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE80.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj80.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj2.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe.config
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyNhanVien.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmBanAn.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmHoaDon.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLy.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyAccount.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLyBanAn.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyMonAn.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmThongKe.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmThongTinTaiKhoan.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmVoucher.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Desktop\đồ á\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyNhanVien.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmBanAn.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmHoaDon.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLy.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyAccount.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLyBanAn.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyMonAn.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmThongKe.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmThongTinTaiKhoan.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmVoucher.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Desktop\đồ á - Copy\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.Build.Framework.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\stdole.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\EnvDTE80.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\VSLangProj.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\VSLangProj80.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Newtonsoft.Json.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\VSLangProj2.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe.config
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyNhanVien.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmBanAn.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmHoaDon.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLy.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyAccount.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLyBanAn.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyMonAn.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmThongKe.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmThongTinTaiKhoan.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmVoucher.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+F:\NĂM 2\LẬP TRÌNH WINDOW\QUẢN LÝ NHÀ HÀNG - ĐỒ ÁN CUỐI KỲ LẬP TRÌNH WINDOW\SOURCES CODE\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.Build.Framework.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\stdole.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\EnvDTE80.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\VSLangProj.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\VSLangProj80.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Newtonsoft.Json.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\VSLangProj2.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe.config
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyNhanVien.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmBanAn.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmHoaDon.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLy.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyAccount.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLyBanAn.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyMonAn.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmThongKe.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmThongTinTaiKhoan.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmVoucher.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQLCongViec.resources
+F:\NĂM 3\DBMS\DO AN\ADO\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmWork.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQLCongViec.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyNhanVien.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmBanAn.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmHoaDon.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLy.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyAccount.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLyBanAn.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyMonAn.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmThongKe.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmThongTinTaiKhoan.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmVoucher.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmWork.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
