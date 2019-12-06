@@ -20,12 +20,15 @@ namespace QuanLyQuanAn.PresentationLayer
         List<cWork> lstwork;
         private string err = "";
         private int CaLamViec = -1;
+        private string NameCol;
+        private bool isAscending = true;
         public frmQuanLyNhanVien()
         {
             InitializeComponent();
             nhanvien = new BLNhanVien();
             work = new BLWork();
             lstwork = new List<cWork>();
+            NameCol = "IDEMPLOYEE";
             LoadData();
         }
         void LoadData()
@@ -47,7 +50,7 @@ namespace QuanLyQuanAn.PresentationLayer
             lstwork = work.GetListWork();
             cmbcongviec.DisplayMember = "Name";
             cmbcongviec.DataSource = lstwork;
-            dgvNV.DataSource = nhanvien.GetListEmployee();
+            dgvNV.DataSource = nhanvien.GetListEmployee(NameCol, isAscending);
             TinhLuong();
         }
         private void TinhLuong()
@@ -248,6 +251,78 @@ namespace QuanLyQuanAn.PresentationLayer
         private void cmbcongviec_SelectedIndexChanged(object sender, EventArgs e)
         {
             idcongviec = lstwork[cmbcongviec.SelectedIndex].ID;
+        }
+        
+        private void sid_Click(object sender, EventArgs e)
+        {
+            NameCol = "IDEMPLOYEE";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void sname_Click(object sender, EventArgs e)
+        {
+            NameCol = "empname";
+            LoadData();     
+            isAscending = !isAscending;
+
+        }
+
+        private void sgioitinh_Click(object sender, EventArgs e)
+        {
+            NameCol = "SEX";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void sns_Click(object sender, EventArgs e)
+        {
+            NameCol = "DATEOFBIRTH";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void sngaylam_Click(object sender, EventArgs e)
+        {
+            NameCol = "STARTDAY";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void svitri_Click(object sender, EventArgs e)
+        {
+            NameCol = "WorkName";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void scalam_Click(object sender, EventArgs e)
+        {
+            NameCol = "CaLam";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void stienthuong_Click(object sender, EventArgs e)
+        {
+            NameCol = "BONUS";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void sluong_Click(object sender, EventArgs e)
+        {
+            NameCol = "TongLuong";
+            LoadData();
+            isAscending = !isAscending;
+
         }
     }
 }

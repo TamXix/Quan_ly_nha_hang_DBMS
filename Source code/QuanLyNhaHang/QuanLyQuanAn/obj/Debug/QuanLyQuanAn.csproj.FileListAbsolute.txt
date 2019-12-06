@@ -583,3 +583,30 @@ F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
 F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
 F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
 F:\NĂM 3\DBMS\DO AN\ADO - Copy\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQLCongViec.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyNhanVien.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmBanAn.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmHoaDon.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLy.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyAccount.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmQuanLyBanAn.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmQuanLyMonAn.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmThongKe.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmThongTinTaiKhoan.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmVoucher.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.PresentationLayer.frmWork.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\mrtht\Documents\GitHub\Quan_ly_nha_hang_DBMS\Source code\QuanLyNhaHang\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb

@@ -46,10 +46,10 @@ namespace QuanLyQuanAn.BusinessLayers
             return max;
         }
 
-        public DataTable ThongKe(DateTime Dfrom, DateTime Dto)
+        public DataTable ThongKe(DateTime Dfrom, DateTime Dto, string colname, bool isA)
         {
-            string query = "EXEC ThongKe @datefrom , @dateto";
-            DataSet ds = db.ExecuteQueryDS(query, CommandType.Text, new object[] { Dfrom, Dto });
+            string query = "EXEC ThongKe @datefrom , @dateto , @colname , @isA";
+            DataSet ds = db.ExecuteQueryDS(query, CommandType.Text, new object[] { Dfrom, Dto, colname, isA });
             return ds.Tables[0];
         }
         public bool Pay(int idbill, int idtable, int idvoucher, int giamgia, double tongtien, ref string err)

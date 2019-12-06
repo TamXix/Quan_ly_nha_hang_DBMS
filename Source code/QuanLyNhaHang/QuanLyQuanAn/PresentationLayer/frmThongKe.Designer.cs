@@ -58,6 +58,12 @@
             this.label7 = new System.Windows.Forms.Label();
             this.tbxten = new System.Windows.Forms.TextBox();
             this.tbxvoucher = new System.Windows.Forms.TextBox();
+            this.sidbill = new System.Windows.Forms.Button();
+            this.stenban = new System.Windows.Forms.Button();
+            this.skhuvuc = new System.Windows.Forms.Button();
+            this.sdenluc = new System.Windows.Forms.Button();
+            this.sgiamgia = new System.Windows.Forms.Button();
+            this.stongtien = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvthongke)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvdetails)).BeginInit();
@@ -75,11 +81,11 @@
             this.Column4,
             this.Column5,
             this.Column6});
-            this.dgvthongke.Location = new System.Drawing.Point(12, 157);
+            this.dgvthongke.Location = new System.Drawing.Point(12, 193);
             this.dgvthongke.Name = "dgvthongke";
             this.dgvthongke.RowHeadersWidth = 51;
             this.dgvthongke.RowTemplate.Height = 24;
-            this.dgvthongke.Size = new System.Drawing.Size(969, 521);
+            this.dgvthongke.Size = new System.Drawing.Size(969, 485);
             this.dgvthongke.TabIndex = 0;
             this.dgvthongke.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvthongke_CellClick);
             // 
@@ -148,7 +154,7 @@
             this.datefrom.Location = new System.Drawing.Point(22, 39);
             this.datefrom.Name = "datefrom";
             this.datefrom.Size = new System.Drawing.Size(352, 30);
-            this.datefrom.TabIndex = 2;
+            this.datefrom.TabIndex = 1;
             this.datefrom.Value = new System.DateTime(2019, 5, 6, 16, 32, 2, 0);
             // 
             // dateto
@@ -157,7 +163,7 @@
             this.dateto.Location = new System.Drawing.Point(586, 39);
             this.dateto.Name = "dateto";
             this.dateto.Size = new System.Drawing.Size(350, 30);
-            this.dateto.TabIndex = 3;
+            this.dateto.TabIndex = 2;
             this.dateto.Value = new System.DateTime(2019, 5, 6, 16, 32, 2, 0);
             // 
             // label2
@@ -200,7 +206,7 @@
             this.btnxem.Location = new System.Drawing.Point(421, 39);
             this.btnxem.Name = "btnxem";
             this.btnxem.Size = new System.Drawing.Size(133, 41);
-            this.btnxem.TabIndex = 10;
+            this.btnxem.TabIndex = 3;
             this.btnxem.Text = "View";
             this.btnxem.UseVisualStyleBackColor = false;
             this.btnxem.Click += new System.EventHandler(this.btnxem_Click_1);
@@ -353,12 +359,96 @@
             this.tbxvoucher.Size = new System.Drawing.Size(361, 30);
             this.tbxvoucher.TabIndex = 21;
             // 
+            // sidbill
+            // 
+            this.sidbill.BackColor = System.Drawing.Color.OldLace;
+            this.sidbill.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sidbill.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sidbill.Location = new System.Drawing.Point(79, 157);
+            this.sidbill.Name = "sidbill";
+            this.sidbill.Size = new System.Drawing.Size(105, 30);
+            this.sidbill.TabIndex = 4;
+            this.sidbill.Text = "Sort";
+            this.sidbill.UseVisualStyleBackColor = false;
+            this.sidbill.Click += new System.EventHandler(this.sidbill_Click);
+            // 
+            // stenban
+            // 
+            this.stenban.BackColor = System.Drawing.Color.OldLace;
+            this.stenban.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.stenban.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.stenban.Location = new System.Drawing.Point(208, 157);
+            this.stenban.Name = "stenban";
+            this.stenban.Size = new System.Drawing.Size(105, 30);
+            this.stenban.TabIndex = 5;
+            this.stenban.Text = "Sort";
+            this.stenban.UseVisualStyleBackColor = false;
+            this.stenban.Click += new System.EventHandler(this.stenban_Click);
+            // 
+            // skhuvuc
+            // 
+            this.skhuvuc.BackColor = System.Drawing.Color.OldLace;
+            this.skhuvuc.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.skhuvuc.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.skhuvuc.Location = new System.Drawing.Point(341, 157);
+            this.skhuvuc.Name = "skhuvuc";
+            this.skhuvuc.Size = new System.Drawing.Size(105, 30);
+            this.skhuvuc.TabIndex = 6;
+            this.skhuvuc.Text = "Sort";
+            this.skhuvuc.UseVisualStyleBackColor = false;
+            this.skhuvuc.Click += new System.EventHandler(this.skhuvuc_Click);
+            // 
+            // sdenluc
+            // 
+            this.sdenluc.BackColor = System.Drawing.Color.OldLace;
+            this.sdenluc.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sdenluc.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sdenluc.Location = new System.Drawing.Point(470, 157);
+            this.sdenluc.Name = "sdenluc";
+            this.sdenluc.Size = new System.Drawing.Size(105, 30);
+            this.sdenluc.TabIndex = 7;
+            this.sdenluc.Text = "Sort";
+            this.sdenluc.UseVisualStyleBackColor = false;
+            this.sdenluc.Click += new System.EventHandler(this.sdenluc_Click);
+            // 
+            // sgiamgia
+            // 
+            this.sgiamgia.BackColor = System.Drawing.Color.OldLace;
+            this.sgiamgia.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sgiamgia.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sgiamgia.Location = new System.Drawing.Point(735, 157);
+            this.sgiamgia.Name = "sgiamgia";
+            this.sgiamgia.Size = new System.Drawing.Size(105, 30);
+            this.sgiamgia.TabIndex = 8;
+            this.sgiamgia.Text = "Sort";
+            this.sgiamgia.UseVisualStyleBackColor = false;
+            this.sgiamgia.Click += new System.EventHandler(this.sgiamgia_Click);
+            // 
+            // stongtien
+            // 
+            this.stongtien.BackColor = System.Drawing.Color.OldLace;
+            this.stongtien.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.stongtien.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.stongtien.Location = new System.Drawing.Point(862, 157);
+            this.stongtien.Name = "stongtien";
+            this.stongtien.Size = new System.Drawing.Size(105, 30);
+            this.stongtien.TabIndex = 9;
+            this.stongtien.Text = "Sort";
+            this.stongtien.UseVisualStyleBackColor = false;
+            this.stongtien.Click += new System.EventHandler(this.stongtien_Click);
+            // 
             // frmThongKe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(1555, 750);
+            this.Controls.Add(this.stongtien);
+            this.Controls.Add(this.sgiamgia);
+            this.Controls.Add(this.sdenluc);
+            this.Controls.Add(this.skhuvuc);
+            this.Controls.Add(this.stenban);
+            this.Controls.Add(this.sidbill);
             this.Controls.Add(this.tbxvoucher);
             this.Controls.Add(this.tbxten);
             this.Controls.Add(this.label7);
@@ -417,5 +507,11 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column8;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column9;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column10;
+        private System.Windows.Forms.Button sidbill;
+        private System.Windows.Forms.Button stenban;
+        private System.Windows.Forms.Button skhuvuc;
+        private System.Windows.Forms.Button sdenluc;
+        private System.Windows.Forms.Button sgiamgia;
+        private System.Windows.Forms.Button stongtien;
     }
 }

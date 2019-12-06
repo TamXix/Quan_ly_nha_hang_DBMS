@@ -78,6 +78,7 @@
             this.columnHeader6,
             this.columnHeader7,
             this.columnHeader8});
+            this.lwMonDaChon.HideSelection = false;
             this.lwMonDaChon.Location = new System.Drawing.Point(12, 93);
             this.lwMonDaChon.Name = "lwMonDaChon";
             this.lwMonDaChon.Size = new System.Drawing.Size(446, 208);
@@ -186,10 +187,10 @@
             this.btnxacnhan.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnxacnhan.ForeColor = System.Drawing.Color.Red;
             this.btnxacnhan.Location = new System.Drawing.Point(311, 308);
-            this.btnxacnhan.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnxacnhan.Margin = new System.Windows.Forms.Padding(4);
             this.btnxacnhan.Name = "btnxacnhan";
             this.btnxacnhan.Size = new System.Drawing.Size(147, 45);
-            this.btnxacnhan.TabIndex = 24;
+            this.btnxacnhan.TabIndex = 1;
             this.btnxacnhan.Text = "Xác nhận";
             this.btnxacnhan.UseVisualStyleBackColor = true;
             this.btnxacnhan.Click += new System.EventHandler(this.btnxacnhan_Click);
@@ -200,10 +201,10 @@
             this.btnhuy.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnhuy.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnhuy.Location = new System.Drawing.Point(311, 360);
-            this.btnhuy.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnhuy.Margin = new System.Windows.Forms.Padding(4);
             this.btnhuy.Name = "btnhuy";
             this.btnhuy.Size = new System.Drawing.Size(147, 45);
-            this.btnhuy.TabIndex = 25;
+            this.btnhuy.TabIndex = 2;
             this.btnhuy.Text = "Hủy";
             this.btnhuy.UseVisualStyleBackColor = true;
             this.btnhuy.Click += new System.EventHandler(this.btnhuy_Click);

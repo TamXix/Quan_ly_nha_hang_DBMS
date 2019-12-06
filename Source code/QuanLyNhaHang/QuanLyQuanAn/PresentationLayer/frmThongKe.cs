@@ -16,19 +16,21 @@ namespace QuanLyQuanAn.PresentationLayer
         BLBill bill;
         BLVoucher voucher;
         BLNhanVien nhanvien;
-
+        private string ColName;
+        private bool isAscending = true;
         public frmThongKe()
         {
             InitializeComponent();
             bill = new BLBill();
             voucher = new BLVoucher();
             nhanvien = new BLNhanVien();
+            ColName = "IDBILL";
             LoadDatetime();
             LoadData();
         }
         private void LoadData()
         {
-            dgvthongke.DataSource = bill.ThongKe(datefrom.Value, dateto.Value);
+            dgvthongke.DataSource = bill.ThongKe(datefrom.Value, dateto.Value, ColName, isAscending);
         }
         private void LoadDatetime()
         {
@@ -65,7 +67,7 @@ namespace QuanLyQuanAn.PresentationLayer
         private void btnchitiet_Click(object sender, EventArgs e)
         {
 
-        }
+        }                   
 
         private void dgvthongke_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -78,6 +80,53 @@ namespace QuanLyQuanAn.PresentationLayer
                 tbxvoucher.Text = voucher.GetNameVoucherFromBill(idbill);
             }
             catch { }
+        }
+
+        private void sidbill_Click(object sender, EventArgs e)
+        {
+            ColName = "IDBILL";
+            LoadData();
+            isAscending = !isAscending;
+        }
+
+        private void stenban_Click(object sender, EventArgs e)
+        {
+            ColName = "tenban";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void skhuvuc_Click(object sender, EventArgs e)
+        {
+            ColName = "khuvuc";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void sdenluc_Click(object sender, EventArgs e)
+        {
+            ColName = "tgden";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void sgiamgia_Click(object sender, EventArgs e)
+        {
+            ColName = "DISCOUNT";
+            LoadData();
+            isAscending = !isAscending;
+
+        }
+
+        private void stongtien_Click(object sender, EventArgs e)
+        {
+            ColName = "TOTAL";
+            LoadData();
+            isAscending = !isAscending;
+
         }
     }
 }

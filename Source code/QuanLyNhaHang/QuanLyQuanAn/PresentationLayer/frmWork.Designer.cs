@@ -111,7 +111,7 @@
             this.btntrove.Location = new System.Drawing.Point(260, 312);
             this.btntrove.Name = "btntrove";
             this.btntrove.Size = new System.Drawing.Size(99, 39);
-            this.btntrove.TabIndex = 8;
+            this.btntrove.TabIndex = 5;
             this.btntrove.Text = "Trở về";
             this.btntrove.UseVisualStyleBackColor = true;
             this.btntrove.Click += new System.EventHandler(this.btntrove_Click);
@@ -121,7 +121,7 @@
             this.btnchitiet.Location = new System.Drawing.Point(10, 312);
             this.btnchitiet.Name = "btnchitiet";
             this.btnchitiet.Size = new System.Drawing.Size(99, 39);
-            this.btnchitiet.TabIndex = 7;
+            this.btnchitiet.TabIndex = 4;
             this.btnchitiet.Text = "Chi tiết";
             this.btnchitiet.UseVisualStyleBackColor = true;
             this.btnchitiet.Click += new System.EventHandler(this.btnchitiet_Click);
@@ -133,7 +133,7 @@
             this.tbxluong.Name = "tbxluong";
             this.tbxluong.ReadOnly = true;
             this.tbxluong.Size = new System.Drawing.Size(164, 24);
-            this.tbxluong.TabIndex = 6;
+            this.tbxluong.TabIndex = 3;
             // 
             // label3
             // 
@@ -152,7 +152,7 @@
             this.tbxsoluong.Name = "tbxsoluong";
             this.tbxsoluong.ReadOnly = true;
             this.tbxsoluong.Size = new System.Drawing.Size(164, 24);
-            this.tbxsoluong.TabIndex = 4;
+            this.tbxsoluong.TabIndex = 2;
             // 
             // label2
             // 
@@ -172,7 +172,7 @@
             this.cmbcongviec.Location = new System.Drawing.Point(195, 73);
             this.cmbcongviec.Name = "cmbcongviec";
             this.cmbcongviec.Size = new System.Drawing.Size(164, 26);
-            this.cmbcongviec.TabIndex = 2;
+            this.cmbcongviec.TabIndex = 1;
             this.cmbcongviec.SelectedIndexChanged += new System.EventHandler(this.cmbcongviec_SelectedIndexChanged);
             // 
             // label1
@@ -199,7 +199,7 @@
             this.dgvnhanvien.RowHeadersWidth = 51;
             this.dgvnhanvien.RowTemplate.Height = 24;
             this.dgvnhanvien.Size = new System.Drawing.Size(762, 385);
-            this.dgvnhanvien.TabIndex = 0;
+            this.dgvnhanvien.TabIndex = 6;
             // 
             // Column1
             // 
@@ -302,7 +302,7 @@
             this.dgvnhanvien2.RowHeadersWidth = 51;
             this.dgvnhanvien2.RowTemplate.Height = 24;
             this.dgvnhanvien2.Size = new System.Drawing.Size(762, 385);
-            this.dgvnhanvien2.TabIndex = 7;
+            this.dgvnhanvien2.TabIndex = 12;
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -339,7 +339,7 @@
             this.tbxsoluongnv2.Name = "tbxsoluongnv2";
             this.tbxsoluongnv2.ReadOnly = true;
             this.tbxsoluongnv2.Size = new System.Drawing.Size(164, 24);
-            this.tbxsoluongnv2.TabIndex = 6;
+            this.tbxsoluongnv2.TabIndex = 8;
             // 
             // label7
             // 
@@ -383,7 +383,7 @@
             this.cmbcalamviec.Location = new System.Drawing.Point(145, 94);
             this.cmbcalamviec.Name = "cmbcalamviec";
             this.cmbcalamviec.Size = new System.Drawing.Size(213, 28);
-            this.cmbcalamviec.TabIndex = 1;
+            this.cmbcalamviec.TabIndex = 7;
             this.cmbcalamviec.SelectedIndexChanged += new System.EventHandler(this.cmbcalamviec_SelectedIndexChanged);
             // 
             // frmWork

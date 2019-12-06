@@ -100,7 +100,7 @@
             this.tbxten.Location = new System.Drawing.Point(170, 54);
             this.tbxten.Name = "tbxten";
             this.tbxten.Size = new System.Drawing.Size(183, 26);
-            this.tbxten.TabIndex = 2;
+            this.tbxten.TabIndex = 1;
             // 
             // label2
             // 
@@ -128,7 +128,7 @@
             this.tbxluong.Location = new System.Drawing.Point(568, 54);
             this.tbxluong.Name = "tbxluong";
             this.tbxluong.Size = new System.Drawing.Size(183, 26);
-            this.tbxluong.TabIndex = 5;
+            this.tbxluong.TabIndex = 2;
             // 
             // panel1
             // 
@@ -149,7 +149,7 @@
             this.btnsua.Margin = new System.Windows.Forms.Padding(4);
             this.btnsua.Name = "btnsua";
             this.btnsua.Size = new System.Drawing.Size(97, 38);
-            this.btnsua.TabIndex = 11;
+            this.btnsua.TabIndex = 4;
             this.btnsua.Text = "Sửa";
             this.btnsua.UseVisualStyleBackColor = true;
             this.btnsua.Click += new System.EventHandler(this.btnsua_Click);
@@ -161,7 +161,7 @@
             this.btnhuy.Margin = new System.Windows.Forms.Padding(4);
             this.btnhuy.Name = "btnhuy";
             this.btnhuy.Size = new System.Drawing.Size(93, 38);
-            this.btnhuy.TabIndex = 14;
+            this.btnhuy.TabIndex = 7;
             this.btnhuy.Text = "Hủy";
             this.btnhuy.UseVisualStyleBackColor = true;
             this.btnhuy.Click += new System.EventHandler(this.btnhuy_Click);
@@ -173,7 +173,7 @@
             this.btnthem.Margin = new System.Windows.Forms.Padding(4);
             this.btnthem.Name = "btnthem";
             this.btnthem.Size = new System.Drawing.Size(93, 38);
-            this.btnthem.TabIndex = 10;
+            this.btnthem.TabIndex = 3;
             this.btnthem.Text = "Thêm";
             this.btnthem.UseVisualStyleBackColor = true;
             this.btnthem.Click += new System.EventHandler(this.btnthem_Click);
@@ -185,7 +185,7 @@
             this.btnluu.Margin = new System.Windows.Forms.Padding(4);
             this.btnluu.Name = "btnluu";
             this.btnluu.Size = new System.Drawing.Size(93, 38);
-            this.btnluu.TabIndex = 12;
+            this.btnluu.TabIndex = 5;
             this.btnluu.Text = "Lưu";
             this.btnluu.UseVisualStyleBackColor = true;
             this.btnluu.Click += new System.EventHandler(this.btnluu_Click);
@@ -197,7 +197,7 @@
             this.btnxoa.Margin = new System.Windows.Forms.Padding(4);
             this.btnxoa.Name = "btnxoa";
             this.btnxoa.Size = new System.Drawing.Size(97, 38);
-            this.btnxoa.TabIndex = 13;
+            this.btnxoa.TabIndex = 6;
             this.btnxoa.Text = "Xóa";
             this.btnxoa.UseVisualStyleBackColor = true;
             this.btnxoa.Click += new System.EventHandler(this.btnxoa_Click);

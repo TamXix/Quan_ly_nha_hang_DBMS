@@ -75,6 +75,15 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.sid = new System.Windows.Forms.Button();
+            this.sname = new System.Windows.Forms.Button();
+            this.sgioitinh = new System.Windows.Forms.Button();
+            this.sns = new System.Windows.Forms.Button();
+            this.sngaylam = new System.Windows.Forms.Button();
+            this.svitri = new System.Windows.Forms.Button();
+            this.scalam = new System.Windows.Forms.Button();
+            this.stienthuong = new System.Windows.Forms.Button();
+            this.sluong = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvNV)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -106,12 +115,12 @@
             this.Column12,
             this.Column11,
             this.Column9});
-            this.dgvNV.Location = new System.Drawing.Point(12, 332);
+            this.dgvNV.Location = new System.Drawing.Point(12, 385);
             this.dgvNV.Name = "dgvNV";
             this.dgvNV.RowHeadersWidth = 51;
             this.dgvNV.RowTemplate.Height = 24;
             this.dgvNV.Size = new System.Drawing.Size(1448, 376);
-            this.dgvNV.TabIndex = 22;
+            this.dgvNV.TabIndex = 50;
             this.dgvNV.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNV_CellClick);
             // 
             // Column1
@@ -123,7 +132,7 @@
             // 
             // Column2
             // 
-            this.Column2.DataPropertyName = "NAME";
+            this.Column2.DataPropertyName = "empname";
             this.Column2.HeaderText = "Họ và Tên";
             this.Column2.MinimumWidth = 6;
             this.Column2.Name = "Column2";
@@ -206,7 +215,7 @@
             this.btnthem.Location = new System.Drawing.Point(126, 280);
             this.btnthem.Name = "btnthem";
             this.btnthem.Size = new System.Drawing.Size(138, 46);
-            this.btnthem.TabIndex = 10;
+            this.btnthem.TabIndex = 20;
             this.btnthem.Text = "Thêm";
             this.btnthem.UseVisualStyleBackColor = false;
             this.btnthem.Click += new System.EventHandler(this.btnthem_Click);
@@ -219,7 +228,7 @@
             this.btnxoa.Location = new System.Drawing.Point(545, 280);
             this.btnxoa.Name = "btnxoa";
             this.btnxoa.Size = new System.Drawing.Size(138, 46);
-            this.btnxoa.TabIndex = 12;
+            this.btnxoa.TabIndex = 22;
             this.btnxoa.Text = "Xóa";
             this.btnxoa.UseVisualStyleBackColor = false;
             this.btnxoa.Click += new System.EventHandler(this.btnxoa_Click);
@@ -232,7 +241,7 @@
             this.btnluu.Location = new System.Drawing.Point(765, 280);
             this.btnluu.Name = "btnluu";
             this.btnluu.Size = new System.Drawing.Size(138, 46);
-            this.btnluu.TabIndex = 13;
+            this.btnluu.TabIndex = 23;
             this.btnluu.Text = "Lưu";
             this.btnluu.UseVisualStyleBackColor = false;
             this.btnluu.Click += new System.EventHandler(this.btnluu_Click);
@@ -245,7 +254,7 @@
             this.btnhuy.Location = new System.Drawing.Point(973, 280);
             this.btnhuy.Name = "btnhuy";
             this.btnhuy.Size = new System.Drawing.Size(138, 46);
-            this.btnhuy.TabIndex = 14;
+            this.btnhuy.TabIndex = 24;
             this.btnhuy.Text = "Hủy";
             this.btnhuy.UseVisualStyleBackColor = false;
             this.btnhuy.Click += new System.EventHandler(this.btnhuy_Click);
@@ -258,7 +267,7 @@
             this.btnsua.Location = new System.Drawing.Point(336, 280);
             this.btnsua.Name = "btnsua";
             this.btnsua.Size = new System.Drawing.Size(138, 46);
-            this.btnsua.TabIndex = 11;
+            this.btnsua.TabIndex = 21;
             this.btnsua.Text = "Sửa";
             this.btnsua.UseVisualStyleBackColor = false;
             this.btnsua.Click += new System.EventHandler(this.btnsua_Click);
@@ -271,7 +280,7 @@
             this.btnthoat.Location = new System.Drawing.Point(1173, 280);
             this.btnthoat.Name = "btnthoat";
             this.btnthoat.Size = new System.Drawing.Size(138, 46);
-            this.btnthoat.TabIndex = 15;
+            this.btnthoat.TabIndex = 25;
             this.btnthoat.Text = "Thoát";
             this.btnthoat.UseVisualStyleBackColor = false;
             this.btnthoat.Click += new System.EventHandler(this.btnthoat_Click);
@@ -314,7 +323,7 @@
             this.tbxtienthuong.Location = new System.Drawing.Point(1073, 130);
             this.tbxtienthuong.Name = "tbxtienthuong";
             this.tbxtienthuong.Size = new System.Drawing.Size(219, 30);
-            this.tbxtienthuong.TabIndex = 39;
+            this.tbxtienthuong.TabIndex = 12;
             // 
             // label14
             // 
@@ -358,7 +367,7 @@
             this.cmbcalam.Location = new System.Drawing.Point(1073, 81);
             this.cmbcalam.Name = "cmbcalam";
             this.cmbcalam.Size = new System.Drawing.Size(219, 33);
-            this.cmbcalam.TabIndex = 35;
+            this.cmbcalam.TabIndex = 11;
             this.cmbcalam.SelectedIndexChanged += new System.EventHandler(this.cmbcalam_SelectedIndexChanged);
             // 
             // cmbcongviec
@@ -369,7 +378,7 @@
             this.cmbcongviec.Location = new System.Drawing.Point(1073, 27);
             this.cmbcongviec.Name = "cmbcongviec";
             this.cmbcongviec.Size = new System.Drawing.Size(219, 33);
-            this.cmbcongviec.TabIndex = 34;
+            this.cmbcongviec.TabIndex = 10;
             this.cmbcongviec.SelectedIndexChanged += new System.EventHandler(this.cmbcongviec_SelectedIndexChanged);
             // 
             // tbxluongthang
@@ -399,7 +408,7 @@
             this.dtpngaybatdau.Location = new System.Drawing.Point(650, 130);
             this.dtpngaybatdau.Name = "dtpngaybatdau";
             this.dtpngaybatdau.Size = new System.Drawing.Size(233, 28);
-            this.dtpngaybatdau.TabIndex = 30;
+            this.dtpngaybatdau.TabIndex = 8;
             // 
             // label10
             // 
@@ -419,7 +428,7 @@
             this.dtpngaysinh.Location = new System.Drawing.Point(650, 81);
             this.dtpngaysinh.Name = "dtpngaysinh";
             this.dtpngaysinh.Size = new System.Drawing.Size(233, 28);
-            this.dtpngaysinh.TabIndex = 5;
+            this.dtpngaysinh.TabIndex = 7;
             // 
             // rabNu
             // 
@@ -452,7 +461,7 @@
             this.tbxsdt.Location = new System.Drawing.Point(649, 177);
             this.tbxsdt.Name = "tbxsdt";
             this.tbxsdt.Size = new System.Drawing.Size(236, 30);
-            this.tbxsdt.TabIndex = 8;
+            this.tbxsdt.TabIndex = 9;
             // 
             // tbxten
             // 
@@ -468,7 +477,7 @@
             this.tbxcmnd.Location = new System.Drawing.Point(209, 177);
             this.tbxcmnd.Name = "tbxcmnd";
             this.tbxcmnd.Size = new System.Drawing.Size(227, 30);
-            this.tbxcmnd.TabIndex = 6;
+            this.tbxcmnd.TabIndex = 5;
             // 
             // tbxdiachi
             // 
@@ -476,7 +485,7 @@
             this.tbxdiachi.Location = new System.Drawing.Point(650, 30);
             this.tbxdiachi.Name = "tbxdiachi";
             this.tbxdiachi.Size = new System.Drawing.Size(233, 30);
-            this.tbxdiachi.TabIndex = 7;
+            this.tbxdiachi.TabIndex = 6;
             // 
             // tbxma
             // 
@@ -557,12 +566,138 @@
             this.label6.TabIndex = 22;
             this.label6.Text = "Mã nhân viên:";
             // 
+            // sid
+            // 
+            this.sid.BackColor = System.Drawing.Color.OldLace;
+            this.sid.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sid.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sid.Location = new System.Drawing.Point(68, 349);
+            this.sid.Name = "sid";
+            this.sid.Size = new System.Drawing.Size(105, 30);
+            this.sid.TabIndex = 30;
+            this.sid.Text = "Sort";
+            this.sid.UseVisualStyleBackColor = false;
+            this.sid.Click += new System.EventHandler(this.sid_Click);
+            // 
+            // sname
+            // 
+            this.sname.BackColor = System.Drawing.Color.OldLace;
+            this.sname.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sname.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sname.Location = new System.Drawing.Point(188, 349);
+            this.sname.Name = "sname";
+            this.sname.Size = new System.Drawing.Size(105, 30);
+            this.sname.TabIndex = 31;
+            this.sname.Text = "Sort";
+            this.sname.UseVisualStyleBackColor = false;
+            this.sname.Click += new System.EventHandler(this.sname_Click);
+            // 
+            // sgioitinh
+            // 
+            this.sgioitinh.BackColor = System.Drawing.Color.OldLace;
+            this.sgioitinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sgioitinh.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sgioitinh.Location = new System.Drawing.Point(299, 349);
+            this.sgioitinh.Name = "sgioitinh";
+            this.sgioitinh.Size = new System.Drawing.Size(105, 30);
+            this.sgioitinh.TabIndex = 32;
+            this.sgioitinh.Text = "Sort";
+            this.sgioitinh.UseVisualStyleBackColor = false;
+            this.sgioitinh.Click += new System.EventHandler(this.sgioitinh_Click);
+            // 
+            // sns
+            // 
+            this.sns.BackColor = System.Drawing.Color.OldLace;
+            this.sns.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sns.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sns.Location = new System.Drawing.Point(765, 349);
+            this.sns.Name = "sns";
+            this.sns.Size = new System.Drawing.Size(105, 30);
+            this.sns.TabIndex = 33;
+            this.sns.Text = "Sort";
+            this.sns.UseVisualStyleBackColor = false;
+            this.sns.Click += new System.EventHandler(this.sns_Click);
+            // 
+            // sngaylam
+            // 
+            this.sngaylam.BackColor = System.Drawing.Color.OldLace;
+            this.sngaylam.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sngaylam.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sngaylam.Location = new System.Drawing.Point(886, 349);
+            this.sngaylam.Name = "sngaylam";
+            this.sngaylam.Size = new System.Drawing.Size(105, 30);
+            this.sngaylam.TabIndex = 34;
+            this.sngaylam.Text = "Sort";
+            this.sngaylam.UseVisualStyleBackColor = false;
+            this.sngaylam.Click += new System.EventHandler(this.sngaylam_Click);
+            // 
+            // svitri
+            // 
+            this.svitri.BackColor = System.Drawing.Color.OldLace;
+            this.svitri.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.svitri.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.svitri.Location = new System.Drawing.Point(999, 349);
+            this.svitri.Name = "svitri";
+            this.svitri.Size = new System.Drawing.Size(105, 30);
+            this.svitri.TabIndex = 35;
+            this.svitri.Text = "Sort";
+            this.svitri.UseVisualStyleBackColor = false;
+            this.svitri.Click += new System.EventHandler(this.svitri_Click);
+            // 
+            // scalam
+            // 
+            this.scalam.BackColor = System.Drawing.Color.OldLace;
+            this.scalam.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.scalam.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.scalam.Location = new System.Drawing.Point(1110, 349);
+            this.scalam.Name = "scalam";
+            this.scalam.Size = new System.Drawing.Size(105, 30);
+            this.scalam.TabIndex = 36;
+            this.scalam.Text = "Sort";
+            this.scalam.UseVisualStyleBackColor = false;
+            this.scalam.Click += new System.EventHandler(this.scalam_Click);
+            // 
+            // stienthuong
+            // 
+            this.stienthuong.BackColor = System.Drawing.Color.OldLace;
+            this.stienthuong.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.stienthuong.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.stienthuong.Location = new System.Drawing.Point(1232, 349);
+            this.stienthuong.Name = "stienthuong";
+            this.stienthuong.Size = new System.Drawing.Size(105, 30);
+            this.stienthuong.TabIndex = 37;
+            this.stienthuong.Text = "Sort";
+            this.stienthuong.UseVisualStyleBackColor = false;
+            this.stienthuong.Click += new System.EventHandler(this.stienthuong_Click);
+            // 
+            // sluong
+            // 
+            this.sluong.BackColor = System.Drawing.Color.OldLace;
+            this.sluong.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sluong.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.sluong.Location = new System.Drawing.Point(1343, 349);
+            this.sluong.Name = "sluong";
+            this.sluong.Size = new System.Drawing.Size(105, 30);
+            this.sluong.TabIndex = 38;
+            this.sluong.Text = "Sort";
+            this.sluong.UseVisualStyleBackColor = false;
+            this.sluong.Click += new System.EventHandler(this.sluong_Click);
+            // 
             // frmQuanLyNhanVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
-            this.ClientSize = new System.Drawing.Size(1472, 721);
+            this.ClientSize = new System.Drawing.Size(1472, 770);
+            this.Controls.Add(this.sluong);
+            this.Controls.Add(this.stienthuong);
+            this.Controls.Add(this.scalam);
+            this.Controls.Add(this.svitri);
+            this.Controls.Add(this.sngaylam);
+            this.Controls.Add(this.sns);
+            this.Controls.Add(this.sgioitinh);
+            this.Controls.Add(this.sname);
+            this.Controls.Add(this.sid);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnthoat);
             this.Controls.Add(this.btnsua);
@@ -620,6 +755,15 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.ComboBox cmbcalam;
         private System.Windows.Forms.ComboBox cmbcongviec;
+        private System.Windows.Forms.Button sid;
+        private System.Windows.Forms.Button sname;
+        private System.Windows.Forms.Button sgioitinh;
+        private System.Windows.Forms.Button sns;
+        private System.Windows.Forms.Button sngaylam;
+        private System.Windows.Forms.Button svitri;
+        private System.Windows.Forms.Button scalam;
+        private System.Windows.Forms.Button stienthuong;
+        private System.Windows.Forms.Button sluong;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column3;

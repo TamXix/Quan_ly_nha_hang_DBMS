@@ -37,17 +37,17 @@
             this.btnluu = new System.Windows.Forms.Button();
             this.btnxoa = new System.Windows.Forms.Button();
             this.pnl = new System.Windows.Forms.Panel();
+            this.cmbHoten = new System.Windows.Forms.ComboBox();
             this.chbxadmin = new System.Windows.Forms.CheckBox();
             this.tbxuser = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.dgvaccount = new System.Windows.Forms.DataGridView();
-            this.label2 = new System.Windows.Forms.Label();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.IDEMPLOYEE = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cmbHoten = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             this.pnl.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvaccount)).BeginInit();
@@ -73,7 +73,7 @@
             this.btnresetpass.Margin = new System.Windows.Forms.Padding(4);
             this.btnresetpass.Name = "btnresetpass";
             this.btnresetpass.Size = new System.Drawing.Size(97, 38);
-            this.btnresetpass.TabIndex = 45;
+            this.btnresetpass.TabIndex = 6;
             this.btnresetpass.Text = "Re pass";
             this.btnresetpass.UseVisualStyleBackColor = true;
             this.btnresetpass.Click += new System.EventHandler(this.btnresetpass_Click);
@@ -85,7 +85,7 @@
             this.btnhuy.Margin = new System.Windows.Forms.Padding(4);
             this.btnhuy.Name = "btnhuy";
             this.btnhuy.Size = new System.Drawing.Size(93, 38);
-            this.btnhuy.TabIndex = 44;
+            this.btnhuy.TabIndex = 8;
             this.btnhuy.Text = "Hủy";
             this.btnhuy.UseVisualStyleBackColor = true;
             this.btnhuy.Click += new System.EventHandler(this.btnhuy_Click);
@@ -97,7 +97,7 @@
             this.btnthem.Margin = new System.Windows.Forms.Padding(4);
             this.btnthem.Name = "btnthem";
             this.btnthem.Size = new System.Drawing.Size(93, 38);
-            this.btnthem.TabIndex = 40;
+            this.btnthem.TabIndex = 4;
             this.btnthem.Text = "Thêm";
             this.btnthem.UseVisualStyleBackColor = true;
             this.btnthem.Click += new System.EventHandler(this.btnthem_Click);
@@ -109,7 +109,7 @@
             this.btnthoat.Margin = new System.Windows.Forms.Padding(4);
             this.btnthoat.Name = "btnthoat";
             this.btnthoat.Size = new System.Drawing.Size(95, 38);
-            this.btnthoat.TabIndex = 43;
+            this.btnthoat.TabIndex = 9;
             this.btnthoat.Text = "Thoát";
             this.btnthoat.UseVisualStyleBackColor = true;
             this.btnthoat.Click += new System.EventHandler(this.btnthoat_Click);
@@ -121,7 +121,7 @@
             this.btnluu.Margin = new System.Windows.Forms.Padding(4);
             this.btnluu.Name = "btnluu";
             this.btnluu.Size = new System.Drawing.Size(93, 38);
-            this.btnluu.TabIndex = 42;
+            this.btnluu.TabIndex = 5;
             this.btnluu.Text = "Lưu";
             this.btnluu.UseVisualStyleBackColor = true;
             this.btnluu.Click += new System.EventHandler(this.btnluu_Click);
@@ -133,7 +133,7 @@
             this.btnxoa.Margin = new System.Windows.Forms.Padding(4);
             this.btnxoa.Name = "btnxoa";
             this.btnxoa.Size = new System.Drawing.Size(97, 38);
-            this.btnxoa.TabIndex = 41;
+            this.btnxoa.TabIndex = 7;
             this.btnxoa.Text = "Xóa";
             this.btnxoa.UseVisualStyleBackColor = true;
             this.btnxoa.Click += new System.EventHandler(this.btnxoa_Click);
@@ -150,6 +150,16 @@
             this.pnl.Size = new System.Drawing.Size(726, 97);
             this.pnl.TabIndex = 1;
             // 
+            // cmbHoten
+            // 
+            this.cmbHoten.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbHoten.FormattingEnabled = true;
+            this.cmbHoten.Location = new System.Drawing.Point(172, 51);
+            this.cmbHoten.Name = "cmbHoten";
+            this.cmbHoten.Size = new System.Drawing.Size(309, 24);
+            this.cmbHoten.TabIndex = 2;
+            this.cmbHoten.SelectedIndexChanged += new System.EventHandler(this.cmbHoten_SelectedIndexChanged);
+            // 
             // chbxadmin
             // 
             this.chbxadmin.AutoSize = true;
@@ -157,7 +167,7 @@
             this.chbxadmin.Location = new System.Drawing.Point(528, 34);
             this.chbxadmin.Name = "chbxadmin";
             this.chbxadmin.Size = new System.Drawing.Size(110, 24);
-            this.chbxadmin.TabIndex = 9;
+            this.chbxadmin.TabIndex = 3;
             this.chbxadmin.Text = "Là Admin";
             this.chbxadmin.UseVisualStyleBackColor = true;
             // 
@@ -167,7 +177,7 @@
             this.tbxuser.Location = new System.Drawing.Point(172, 11);
             this.tbxuser.Name = "tbxuser";
             this.tbxuser.Size = new System.Drawing.Size(309, 26);
-            this.tbxuser.TabIndex = 7;
+            this.tbxuser.TabIndex = 1;
             this.tbxuser.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label3
@@ -179,6 +189,16 @@
             this.label3.Size = new System.Drawing.Size(138, 20);
             this.label3.TabIndex = 4;
             this.label3.Text = "Tên đăng nhập:";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(30, 55);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(71, 20);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Họ tên:";
             // 
             // label1
             // 
@@ -204,18 +224,8 @@
             this.dgvaccount.RowHeadersWidth = 51;
             this.dgvaccount.RowTemplate.Height = 24;
             this.dgvaccount.Size = new System.Drawing.Size(726, 253);
-            this.dgvaccount.TabIndex = 3;
+            this.dgvaccount.TabIndex = 10;
             this.dgvaccount.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvaccount_CellClick);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(30, 55);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(71, 20);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Họ tên:";
             // 
             // Column1
             // 
@@ -244,16 +254,6 @@
             this.Column3.HeaderText = "Là Admin";
             this.Column3.MinimumWidth = 6;
             this.Column3.Name = "Column3";
-            // 
-            // cmbHoten
-            // 
-            this.cmbHoten.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbHoten.FormattingEnabled = true;
-            this.cmbHoten.Location = new System.Drawing.Point(172, 51);
-            this.cmbHoten.Name = "cmbHoten";
-            this.cmbHoten.Size = new System.Drawing.Size(309, 24);
-            this.cmbHoten.TabIndex = 10;
-            this.cmbHoten.SelectedIndexChanged += new System.EventHandler(this.cmbHoten_SelectedIndexChanged);
             // 
             // frmQuanLyAccount
             // 

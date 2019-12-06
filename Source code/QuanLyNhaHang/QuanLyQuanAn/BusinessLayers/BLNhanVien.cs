@@ -16,10 +16,10 @@ namespace QuanLyQuanAn.BusinessLayers
         {
             db = new DBMain();
         }
-        public DataTable GetListEmployee()
+        public DataTable GetListEmployee(string namecol, bool isAscending)
         {
-            string query = "EXEC GetListImployee";
-            DataSet ds = db.ExecuteQueryDS(query, CommandType.Text);
+            string query = "EXEC GetListImployee @namecol , @isA";
+            DataSet ds = db.ExecuteQueryDS(query, CommandType.Text, new object[] { namecol, isAscending });
             return ds.Tables[0];
         }
         public List<cNhanVien> GetlistNV()

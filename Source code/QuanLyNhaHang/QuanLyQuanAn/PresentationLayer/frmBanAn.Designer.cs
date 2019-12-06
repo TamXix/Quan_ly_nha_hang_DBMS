@@ -182,7 +182,7 @@
             this.cmbarea.Location = new System.Drawing.Point(509, 13);
             this.cmbarea.Name = "cmbarea";
             this.cmbarea.Size = new System.Drawing.Size(278, 28);
-            this.cmbarea.TabIndex = 9;
+            this.cmbarea.TabIndex = 2;
             this.cmbarea.SelectedIndexChanged += new System.EventHandler(this.cmbarea_SelectedIndexChanged);
             // 
             // label2
@@ -201,7 +201,7 @@
             this.tbxname.Location = new System.Drawing.Point(101, 14);
             this.tbxname.Name = "tbxname";
             this.tbxname.Size = new System.Drawing.Size(251, 26);
-            this.tbxname.TabIndex = 7;
+            this.tbxname.TabIndex = 1;
             this.tbxname.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // lb
