@@ -53,7 +53,6 @@ namespace QuanLyQuanAn.PresentationLayer
             CaLam = (int)cmbcalamviec.SelectedIndex + 1;
             dgvnhanvien2.DataSource = work.GetListEmployeeByShift(CaLam);
             tbxsoluongnv2.Text = (dgvnhanvien2.Rows.Count - 1).ToString();
-            tbxluong2.Text = dgvnhanvien2.Rows[0].Cells[3].Value.ToString();
         }
 
         private void tbxchitiet2_Click(object sender, EventArgs e)

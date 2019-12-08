@@ -73,6 +73,8 @@ namespace QuanLyQuanAn.PresentationLayer
         {
             try
             {
+                tbxten.ResetText();
+                tbxvoucher.ResetText();
                 int r = dgvthongke.CurrentCell.RowIndex;
                 int idbill = (int)dgvthongke.Rows[r].Cells[0].Value;
                 dgvdetails.DataSource = bill.BillDetails(idbill);
@@ -102,7 +104,6 @@ namespace QuanLyQuanAn.PresentationLayer
             ColName = "khuvuc";
             LoadData();
             isAscending = !isAscending;
-
         }
 
         private void sdenluc_Click(object sender, EventArgs e)
@@ -110,7 +111,6 @@ namespace QuanLyQuanAn.PresentationLayer
             ColName = "tgden";
             LoadData();
             isAscending = !isAscending;
-
         }
 
         private void sgiamgia_Click(object sender, EventArgs e)

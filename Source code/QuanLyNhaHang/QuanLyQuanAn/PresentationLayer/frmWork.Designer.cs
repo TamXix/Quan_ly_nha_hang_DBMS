@@ -47,8 +47,6 @@
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.tbxtrove2 = new System.Windows.Forms.Button();
             this.tbxchitiet2 = new System.Windows.Forms.Button();
-            this.tbxluong2 = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
             this.dgvnhanvien2 = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -78,6 +76,7 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.tabPage1.Controls.Add(this.label6);
             this.tabPage1.Controls.Add(this.btntrove);
             this.tabPage1.Controls.Add(this.btnchitiet);
@@ -94,7 +93,6 @@
             this.tabPage1.Size = new System.Drawing.Size(1148, 397);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Công việc";
-            this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // label6
             // 
@@ -108,6 +106,7 @@
             // 
             // btntrove
             // 
+            this.btntrove.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btntrove.Location = new System.Drawing.Point(260, 312);
             this.btntrove.Name = "btntrove";
             this.btntrove.Size = new System.Drawing.Size(99, 39);
@@ -118,6 +117,7 @@
             // 
             // btnchitiet
             // 
+            this.btnchitiet.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnchitiet.Location = new System.Drawing.Point(10, 312);
             this.btnchitiet.Name = "btnchitiet";
             this.btnchitiet.Size = new System.Drawing.Size(99, 39);
@@ -231,10 +231,9 @@
             // 
             // tabPage2
             // 
+            this.tabPage2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.tabPage2.Controls.Add(this.tbxtrove2);
             this.tabPage2.Controls.Add(this.tbxchitiet2);
-            this.tabPage2.Controls.Add(this.tbxluong2);
-            this.tabPage2.Controls.Add(this.label8);
             this.tabPage2.Controls.Add(this.dgvnhanvien2);
             this.tabPage2.Controls.Add(this.tbxsoluongnv2);
             this.tabPage2.Controls.Add(this.label7);
@@ -247,10 +246,10 @@
             this.tabPage2.Size = new System.Drawing.Size(1148, 397);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Ca làm việc";
-            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // tbxtrove2
             // 
+            this.tbxtrove2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbxtrove2.Location = new System.Drawing.Point(261, 302);
             this.tbxtrove2.Name = "tbxtrove2";
             this.tbxtrove2.Size = new System.Drawing.Size(99, 39);
@@ -261,6 +260,7 @@
             // 
             // tbxchitiet2
             // 
+            this.tbxchitiet2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbxchitiet2.Location = new System.Drawing.Point(11, 302);
             this.tbxchitiet2.Name = "tbxchitiet2";
             this.tbxchitiet2.Size = new System.Drawing.Size(99, 39);
@@ -268,25 +268,6 @@
             this.tbxchitiet2.Text = "Chi tiết";
             this.tbxchitiet2.UseVisualStyleBackColor = true;
             this.tbxchitiet2.Click += new System.EventHandler(this.tbxchitiet2_Click);
-            // 
-            // tbxluong2
-            // 
-            this.tbxluong2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbxluong2.Location = new System.Drawing.Point(193, 220);
-            this.tbxluong2.Name = "tbxluong2";
-            this.tbxluong2.ReadOnly = true;
-            this.tbxluong2.Size = new System.Drawing.Size(164, 24);
-            this.tbxluong2.TabIndex = 9;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(17, 223);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(136, 20);
-            this.label8.TabIndex = 8;
-            this.label8.Text = "Lương công việc:";
             // 
             // dgvnhanvien2
             // 
@@ -390,6 +371,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(1180, 450);
             this.Controls.Add(this.tabControl1);
             this.Name = "frmWork";
@@ -437,7 +419,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
         private System.Windows.Forms.Button tbxtrove2;
         private System.Windows.Forms.Button tbxchitiet2;
-        private System.Windows.Forms.TextBox tbxluong2;
-        private System.Windows.Forms.Label label8;
     }
 }

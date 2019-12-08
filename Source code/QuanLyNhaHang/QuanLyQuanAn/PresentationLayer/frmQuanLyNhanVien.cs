@@ -51,7 +51,7 @@ namespace QuanLyQuanAn.PresentationLayer
             cmbcongviec.DisplayMember = "Name";
             cmbcongviec.DataSource = lstwork;
             dgvNV.DataSource = nhanvien.GetListEmployee(NameCol, isAscending);
-            TinhLuong();
+            //TinhLuong();
         }
         private void TinhLuong()
         {
@@ -169,7 +169,7 @@ namespace QuanLyQuanAn.PresentationLayer
                     MessageBox.Show("Thêm thành công!", "Thông báo!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     ResetText();
                     LoadData();
-                    TinhLuong();
+                    //TinhLuong();
                 }
             }
             else

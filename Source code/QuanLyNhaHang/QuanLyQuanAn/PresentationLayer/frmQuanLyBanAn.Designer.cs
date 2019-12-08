@@ -371,7 +371,7 @@
             this.columnHeader8});
             this.lwMonDaChon.ForeColor = System.Drawing.Color.Maroon;
             this.lwMonDaChon.HideSelection = false;
-            this.lwMonDaChon.Location = new System.Drawing.Point(16, 538);
+            this.lwMonDaChon.Location = new System.Drawing.Point(8, 534);
             this.lwMonDaChon.Name = "lwMonDaChon";
             this.lwMonDaChon.Size = new System.Drawing.Size(446, 208);
             this.lwMonDaChon.TabIndex = 14;
@@ -381,22 +381,22 @@
             // columnHeader5
             // 
             this.columnHeader5.Text = "Tên món";
-            this.columnHeader5.Width = 120;
+            this.columnHeader5.Width = 150;
             // 
             // columnHeader6
             // 
             this.columnHeader6.Text = "Giá";
-            this.columnHeader6.Width = 70;
+            this.columnHeader6.Width = 84;
             // 
             // columnHeader7
             // 
             this.columnHeader7.Text = "Số lượng";
-            this.columnHeader7.Width = 65;
+            this.columnHeader7.Width = 90;
             // 
             // columnHeader8
             // 
             this.columnHeader8.Text = "Tổng tiền";
-            this.columnHeader8.Width = 90;
+            this.columnHeader8.Width = 116;
             // 
             // label5
             // 
@@ -530,7 +530,7 @@
             this.chứcNăngToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1262, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(1262, 28);
             this.menuStrip1.TabIndex = 21;
             this.menuStrip1.Text = "menuStrip1";
             // 
